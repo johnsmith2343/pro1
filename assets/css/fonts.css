@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Quattrocento Sans';
+  src: url('/landers/2333/[129]bitcoin_pro_kristin_tv4_se/assets/fonts/QuattrocentoSans-Regular.woff2') format('woff2'), url('/landers/2333/[129]bitcoin_pro_kristin_tv4_se/assets/fonts/QuattrocentoSans-Regular.woff') format('woff');
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Quattrocento Sans';
+  src: url('/landers/2333/[129]bitcoin_pro_kristin_tv4_se/assets/fonts/QuattrocentoSans-Italic.woff2') format('woff2'), url('/landers/2333/[129]bitcoin_pro_kristin_tv4_se/assets/fonts/QuattrocentoSans-Italic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Quattrocento Sans';
+  src: url('/landers/2333/[129]bitcoin_pro_kristin_tv4_se/assets/fonts/QuattrocentoSans-Bold.woff2') format('woff2'), url('/landers/2333/[129]bitcoin_pro_kristin_tv4_se/assets/fonts/QuattrocentoSans-Bold.woff') format('woff');
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Quattrocento Sans';
+  src: url('/landers/2333/[129]bitcoin_pro_kristin_tv4_se/assets/fonts/QuattrocentoSans-BoldItalic.woff2') format('woff2'), url('/landers/2333/[129]bitcoin_pro_kristin_tv4_se/assets/fonts/QuattrocentoSans-BoldItalic.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
